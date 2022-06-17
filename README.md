@@ -18,7 +18,7 @@ This needs to be automated so that the infrastructure can be discarded as soon a
 
 - ```/Scripts```:
 > - ```create.sh``` - script to create stack
-> - ```delete_stack.sh`` - script to delete stack
+> - ```delete_stack.sh``` - script to delete stack
 > - ```update.sh``` - script to update stack
 
 - ```/img``` - Screenshots of the workflow
