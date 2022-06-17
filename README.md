@@ -16,10 +16,10 @@ This needs to be automated so that the infrastructure can be discarded as soon a
 
 ### Files  
 
-- /Scripts:
-> - create.sh - script to create stack
-> - dele_stack.sh - script to delete stack
-> - update.sh - script to update stack
+- ```/Scripts```:
+> - ```create.sh``` - script to create stack
+> - ```delete_stack.sh`` - script to delete stack
+> - ```update.sh``` - script to update stack
 
 - ```/img``` - Screenshots of the workflow
 - ```final-project-networking.yml``` - CloudFormation template for creating networking resources
