@@ -63,7 +63,7 @@ Resources:
          cd /var/www/html
          echo "it works! Udagram, Udacity" > index.html
       ImageId: !Ref AIMIDtouse
-      KeyName: VocareumKey2
+      # Remove keyname for security reasons
       SecurityGroups:
       - Ref: WebServerSecGroup
       InstanceType: !Ref InstanceType
