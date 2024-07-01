@@ -45,6 +45,6 @@ Scripts/update.sh final-project-networking.yml final-project_networking.json
 Scritps/delete_stack.sh stack-name
 ```
 
-[## Live App Url](http://proje-webap-75ukg6xr0oxq-155649170.us-east-1.elb.amazonaws.com/)
+## [Live App Url](http://proje-webap-75ukg6xr0oxq-155649170.us-east-1.elb.amazonaws.com/)
 
 **Currenly not available**
