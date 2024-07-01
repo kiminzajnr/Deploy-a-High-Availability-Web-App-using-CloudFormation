@@ -1,7 +1,4 @@
 # Deploy a High-Availability Web App using CloudFormation
----
-## Live App Url
-http://proje-webap-75ukg6xr0oxq-155649170.us-east-1.elb.amazonaws.com/
   
 ## Infrastructure diagram
 
@@ -42,8 +39,12 @@ Scripts/create.sh stack-name final-project-networking.yml final-project_networki
 ```
 Scripts/update.sh final-project-networking.yml final-project_networking.json
 ```
-## To delete stack, Run
+## delete stack
 
 ```
 Scritps/delete_stack.sh stack-name
 ```
+
+[## Live App Url](http://proje-webap-75ukg6xr0oxq-155649170.us-east-1.elb.amazonaws.com/)
+
+**Currenly not available**
